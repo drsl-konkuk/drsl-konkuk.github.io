@@ -1,0 +1,112 @@
+[
+  {
+    "year": 2026,
+    "text": "Azad, M. S., Choi, M., & Lee, T.-H. Explainable Multi-Target XGBoost Models for Seismic Demand Prediction of NPP Reactor Containment Building. Architectural Research, 28, 5.",
+    "doi": "https://doi.org/10.1007/s44515-026-00004-2"
+  },
+  {
+    "year": 2026,
+    "text": "Azad, M. S., Lee, T.-H., Nguyen, D. D., & Thusa, B. Seismic Demand Sensitivity of Reactor Containment Building Using Bayesian Additive Regression Trees. Nuclear Technology, 212(4), 1068–1085.",
+    "doi": "https://doi.org/10.1080/00295450.2025.2473847"
+  },
+  {
+    "year": 2025,
+    "text": "Azad, M. S., Nguyen, D. D., Thusa, B., & Lee, T.-H. Seismic Strength Evaluation of Corroded Reactor Containment Building. International Journal of Concrete Structures and Materials, 19, 6.",
+    "doi": "https://doi.org/10.1186/s40069-024-00734-4"
+  },
+  {
+    "year": 2025,
+    "text": "Thusa, B., Nguyen, D. D., Azad, M. S., & Lee, T.-H. Floor response characteristics of NPP auxiliary building subjected to bi-directional ground motions.",
+    "doi": ""
+  },
+  {
+    "year": 2025,
+    "text": "Thusa, B., Nguyen, D. D., Azad, M. S., & Lee, T.-H. Effect of bi-directional ground motions on the seismic pounding of adjacent NPP structures.",
+    "doi": ""
+  },
+  {
+    "year": 2025,
+    "text": "Azad, M. S., Nguyen, D. D., Thusa, B., & Lee, T.-H. Variance-Based Sensitivity of Seismic Damage of the Containment Building Using Efficient Bayesian Additive Regression Trees.",
+    "doi": ""
+  },
+  {
+    "year": 2023,
+    "text": "Tran, V.-L., Lee, T.-H., Nguyen, D.-D., et al. Failure Mode Identification and Shear Strength Prediction of Rectangular Hollow RC Columns Using Novel Hybrid Machine Learning Models.",
+    "doi": ""
+  },
+  {
+    "year": 2023,
+    "text": "Thusa, B., Nguyen, D. D., Azad, M. S., & Lee, T.-H. Seismic performance evaluation of reactor containment building considering effects of concrete material models and prestressing forces. Nuclear Engineering and Technology, 55(5), 1567–1576.",
+    "doi": ""
+  },
+  {
+    "year": 2022,
+    "text": "Thusa, B., Azad, M. S., Nguyen, D. D., & Lee, T.-H. Nonlinear Dynamic Analyses of Reactor Containment Building Using Multi-Layer Shell Model and Beam-Truss Model.",
+    "doi": ""
+  },
+  {
+    "year": 2021,
+    "text": "Nguyen, D. D., Lee, T.-H., & Phan, V. T. Optimal Earthquake Intensity Measures for Probabilistic Seismic Demand Models of Base-Isolated Nuclear Power Plant Structures. Energies, 14(16), 5163.",
+    "doi": ""
+  },
+  {
+    "year": 2021,
+    "text": "Nguyen, D. D., Thusa, B., Azad, M. S., & Lee, T.-H. Optimal earthquake intensity measures for probabilistic seismic demand models of APR1400 reactor containment building. Nuclear Engineering and Technology, 53(12), 4179–4188.",
+    "doi": ""
+  },
+  {
+    "year": 2021,
+    "text": "Nguyen, D. D., Tran, V. L., Ha, D. H., Nguyen, V. Q., & Lee, T.-H. A machine learning-based formulation for predicting shear capacity of squat flanged RC walls. Structures, 29, 1734–1747.",
+    "doi": ""
+  },
+  {
+    "year": 2020,
+    "text": "Thusa, B., Nguyen, D. D., Park, H., & Lee, T.-H. Seismic Response Evaluation of NPP Structures Considering Different Numerical Models and Frequency Contents of Earthquakes.",
+    "doi": ""
+  },
+  {
+    "year": 2019,
+    "text": "Nguyen, D. D., Lee, T.-H., Nguyen, V. Q., & Park, D. Seismic damage analysis of box metro tunnels accounting for aspect ratio and shear failure. Applied Sciences, 9(16), 3207.",
+    "doi": ""
+  },
+  {
+    "year": 2018,
+    "text": "Lee, T.-H., & Nguyen, D. D. Seismic vulnerability assessment of a continuous steel box girder bridge considering influence of LRB properties. Sādhanā, 43(1), 14.",
+    "doi": ""
+  },
+  {
+    "year": 2017,
+    "text": "Nguyen, D. D., & Lee, T.-H. Seismic fragility curves of bridge piers accounting for ground motions in Korea.",
+    "doi": ""
+  },
+  {
+    "year": 2016,
+    "text": "Lee, T.-H., Park, D., Nguyen, D. D., & Park, J. S. Damage analysis of cut-and-cover tunnel structures under seismic loading.",
+    "doi": ""
+  },
+  {
+    "year": 2014,
+    "text": "Choi, B. H., Lee, T.-H., & Park, Y. M. Torsional stiffness requirements for diaphragm bracing of discretely braced I-girders.",
+    "doi": "https://doi.org/10.1007/s13296-014-2015-z"
+  },
+  {
+    "year": 2009,
+    "text": "Moon, J., Yoon, K. Y., Lee, T.-H., & Lee, H. E. In-plane strength and design of parabolic arches.",
+    "doi": "https://doi.org/10.1016/j.engstruct.2008.09.009"
+  },
+  {
+    "year": 2007,
+    "text": "Lee, T.-H., Kato, M., Matsumiya, T., Suita, K., & Nakashima, M. Seismic performance evaluation of non-structural components: Drywall partitions. Earthquake Engineering and Structural Dynamics, 36(3), 367–382.",
+    "doi": "https://doi.org/10.1002/eqe.638"
+  },
+  {
+    "year": 2005,
+    "text": "Lee, T.-H., & Mosalam, K. M. Seismic demand sensitivity of reinforced concrete shear-wall building using FOSM method. Earthquake Engineering and Structural Dynamics, 34, 1719–1736.",
+    "doi": "https://doi.org/10.1002/eqe.506"
+  },
+  {
+    "year": 2004,
+    "text": "Lee, T.-H., & Mosalam, K. M. Probabilistic fiber element modeling of reinforced concrete structures. Computers & Structures, 82(27), 2285–2299.",
+    "doi": ""
+  }
+]
