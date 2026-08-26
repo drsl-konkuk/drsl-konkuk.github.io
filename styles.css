@@ -127,3 +127,6 @@ url("https://lh3.googleusercontent.com/sitesv/AG8ngQUItkJq7DK6kxcORRCLfXCkplIMk3
 .detail-link{display:inline-block;margin-top:8px;font-size:.82rem;font-weight:600;color:var(--blue);border-bottom:1px solid rgba(35,77,116,.35)}
 .detail-link:hover{border-bottom-color:var(--blue)}
 @media(max-width:540px){.completed-project{grid-template-columns:1fr;gap:6px}}
+
+.publication-link{display:inline-block;margin-top:8px;font-size:.78rem;font-weight:600;letter-spacing:.03em;color:var(--blue);border-bottom:1px solid rgba(35,77,116,.35)}
+.publication-link:hover{border-bottom-color:var(--blue)}
