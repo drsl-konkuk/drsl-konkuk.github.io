@@ -57,3 +57,12 @@ python -m http.server 8000
 ```
 
 Then open `http://localhost:8000`.
+
+
+## Header logo
+
+The site header expects the logo at:
+
+`assets/drsl-logo.png`
+
+If your logo has a different filename, rename it to `drsl-logo.png` or update the `src` attribute in the HTML files.
