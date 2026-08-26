@@ -34,9 +34,22 @@ if (publicationList) {
         const year = document.createElement("div");
         year.className = "publication-year";
         year.textContent = item.year;
+        const content = document.createElement("div");
         const p = document.createElement("p");
         p.textContent = item.text;
-        article.append(year,p);
+        content.appendChild(p);
+
+        if (item.doi) {
+          const link = document.createElement("a");
+          link.className = "publication-link";
+          link.href = item.doi;
+          link.target = "_blank";
+          link.rel = "noopener";
+          link.textContent = "DOI ↗";
+          content.appendChild(link);
+        }
+
+        article.append(year, content);
         publicationList.appendChild(article);
       });
   };
