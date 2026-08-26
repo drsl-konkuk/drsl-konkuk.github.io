@@ -1,7 +1,47 @@
 [
   {
+    "year": 2026,
+    "text": "Azad, M. S., Nguyen, D. D., Thusa, B., & Lee, T. H. Bayesian-Updated Seismic Fragility of Reactor Containment Building considering Multiple Damage States. Nuclear Engineering and Technology."
+  },
+  {
+    "year": 2026,
+    "text": "Azad, M. S., Choi, M., & Lee, T. H. Explainable Multi-Target XGBoost Models for Seismic Demand Prediction of NPP Reactor Containment Building."
+  },
+  {
+    "year": 2025,
+    "text": "Azad, M. S., Lee, T. H., Nguyen, D. D., & Thusa, B. Seismic Demand Sensitivity of Reactor Containment Building Using Bayesian Additive Regression Trees. Nuclear Technology."
+  },
+  {
+    "year": 2025,
+    "text": "Azad, M. S., Nguyen, D. D., Thusa, B., & Lee, T. H. Variance-Based Sensitivity of Seismic Damage of the Containment Building Using Efficient Bayesian Additive Regression Trees. The Structural Design of Tall and Special Buildings."
+  },
+  {
+    "year": 2025,
+    "text": "Thusa, B., Nguyen, D. D., Azad, M. S., & Lee, T. H. Floor response characteristics of NPP auxiliary building subjected to bi-directional ground motions. Nuclear Engineering and Technology."
+  },
+  {
+    "year": 2025,
+    "text": "Thusa, B., Nguyen, D. D., Azad, M. S., & Lee, T. H. Effect of bi-directional ground motions on the seismic pounding of adjacent NPP structures. Nuclear Engineering and Technology."
+  },
+  {
+    "year": 2025,
+    "text": "Azad, M. S., Nguyen, D. D., Thusa, B., & Lee, T. H. Seismic Strength Evaluation of Corroded Reactor Containment Building. International Journal of Concrete Structures and Materials."
+  },
+  {
+    "year": 2024,
+    "text": "Azad, M. S., Lee, T. H., Nguyen, D. D., & Thusa, B. Variance-Based Sensitivity of Seismic Demand of Reactor Containment Building Using Bayesian Additive Regression Trees. Preprint."
+  },
+  {
     "year": 2023,
-    "text": "Thusa, B., Nguyen, D. D., Azad, M. S., & Lee, T. H. Seismic performance evaluation of reactor containment building considering effects of concrete material models and prestressing forces. Nuclear Engineering and Technology, 55(5), 1567–1576."
+    "text": "Tran, V. L., Lee, T. H., Nguyen, D. D., et al. Failure Mode Identification and Shear Strength Prediction of Rectangular Hollow RC Columns Using Novel Hybrid Machine Learning Models. Buildings."
+  },
+  {
+    "year": 2023,
+    "text": "Thusa, B., Nguyen, D. D., Azad, M. S., & Lee, T. H. Seismic performance evaluation of reactor containment building considering effects of concrete material models and prestressing forces. Nuclear Engineering and Technology, 55(5), 1567-1576."
+  },
+  {
+    "year": 2022,
+    "text": "Thusa, B., Azad, M. S., Nguyen, D. D., & Lee, T. H. Nonlinear Dynamic Analyses of Reactor Containment Building Using Multi-Layer Shell Model and Beam-Truss Model. Journal of the Korea Concrete Institute."
   },
   {
     "year": 2021,
@@ -9,26 +49,210 @@
   },
   {
     "year": 2021,
-    "text": "Nguyen, D. D., Thusa, B., Azad, M. S., & Lee, T. H. Optimal earthquake intensity measures for probabilistic seismic demand models of APR1400 reactor containment building. Nuclear Engineering and Technology, 53(12), 4179–4188."
+    "text": "Nguyen, D. D., Thusa, B., Azad, M. S., & Lee, T. H. Optimal earthquake intensity measures for probabilistic seismic demand models of APR1400 reactor containment building. Nuclear Engineering and Technology, 53(12), 4179-4188."
   },
   {
     "year": 2021,
-    "text": "Nguyen, D. D., Tran, V. L., Ha, D. H., Nguyen, V. Q., & Lee, T. H. A machine learning-based formulation for predicting shear capacity of squat flanged RC walls. Structures, 29, 1734–1747."
+    "text": "Nguyen, D. D., Tran, V. L., Ha, D. H., Nguyen, V. Q., & Lee, T. H. A machine learning-based formulation for predicting shear capacity of squat flanged RC walls. Structures, 29, 1734-1747."
+  },
+  {
+    "year": 2021,
+    "text": "Nguyen, D. D., Thusa, B., Park, H., Azad, M. S., & Lee, T. H. Efficiency of various structural modelling schemes on evaluating seismic performance and fragility of APR1400 containment building. Nuclear Engineering and Technology, 53(8), 2696-2707."
   },
   {
     "year": 2020,
-    "text": "Thusa, B., Nguyen, D. D., Park, H., & Lee, T. H. Seismic Response Evaluation of NPP Structures Considering Different Numerical Models and Frequency Contents of Earthquakes."
+    "text": "Thusa, B., Nguyen, D. D., Park, H., & Lee, T. H. Seismic Response Evaluation of NPP Structures Considering Different Numerical Models and Frequency Contents of Earthquakes. Journal of the Computational Structural Engineering Institute of Korea, 33(1), 63-72."
+  },
+  {
+    "year": 2020,
+    "text": "Nguyen, D. D., Azad, M. S., Choi, B. H., & Lee, T. H. Efficient Earthquake Intensity Measure for Seismic Vulnerability of Integral Abutment Bridges. Journal of the Korean Society of Hazard Mitigation, 20(6), 251-260."
+  },
+  {
+    "year": 2020,
+    "text": "Nguyen, D. D., Thusa, B., Han, T. S., & Lee, T. H. Identifying significant earthquake intensity measures for evaluating seismic damage and fragility of nuclear power plant structures. Nuclear Engineering and Technology, 52(1), 192-205."
   },
   {
     "year": 2019,
     "text": "Nguyen, D. D., Lee, T. H., Nguyen, V. Q., & Park, D. Seismic damage analysis of box metro tunnels accounting for aspect ratio and shear failure. Applied Sciences, 9(16), 3207."
   },
   {
+    "year": 2019,
+    "text": "Nguyen, D. D., Thusa, B., & Lee, T. H. Effects of Significant Duration of Ground Motions on Seismic Responses of Base-Isolated Nuclear Power Plants. Journal of the Earthquake Engineering Society of Korea, 23(3), 149-157."
+  },
+  {
+    "year": 2019,
+    "text": "Kim, J. S., Jung, J. P., Moon, J. H., Lee, T. H., Kim, J. H., & Han, T. Seismic Fragility Analysis of Base-Isolated LNG Storage Tank for Selecting Optimum Friction Material of Friction Pendulum System. Journal of Earthquake and Tsunami, 13(2), 1950010."
+  },
+  {
+    "year": 2019,
+    "text": "Nguyen, D. D., Park, D., Shamsher, S., Nguyen, V. Q., & Lee, T. H. Seismic vulnerability assessment of rectangular cut-and-cover subway tunnels. Tunnelling and Underground Space Technology, 86, 247-261."
+  },
+  {
+    "year": 2019,
+    "text": "Choi, B. H., Moreno, L. B., Lim, C. S., Nguyen, D. D., & Lee, T. H. Seismic Performance Evaluation of a Fully Integral Concrete Bridge with End-Restraining Abutments. Advances in Civil Engineering, 2019."
+  },
+  {
+    "year": 2018,
+    "text": "Nguyen, D. D., Thusa, B., & Lee, T. H. Seismic Fragility of Base-Isolated Nuclear Power Plant Considering Effects of Near-Fault Ground Motions. Journal of the Korean Society of Hazard Mitigation, 18(7), 315-321."
+  },
+  {
+    "year": 2018,
+    "text": "Park, D., Nguyen, D. D., Lee, T. H., & Nguyen, V. Q. Seismic Fragility Evaluation of Cut-and-cover Tunnel. Journal of the Korean Geotechnical Society, 34(11), 71-80."
+  },
+  {
+    "year": 2018,
+    "text": "Nguyen, D. D., & Lee, T. H. Seismic fragility curves of bridge piers accounting for ground motions in Korea. IOP Conference Series: Earth and Environmental Science, 143(1), 012029."
+  },
+  {
     "year": 2018,
     "text": "Lee, T. H., & Nguyen, D. D. Seismic vulnerability assessment of a continuous steel box girder bridge considering influence of LRB properties. Sādhanā, 43(1), 14."
   },
   {
+    "year": 2018,
+    "text": "Lee, T. H., Nguyen, V. H., Phan, V. T., & Nguyen, D. D. Seismic margin assessment of a reinforced concrete skewed bridge in a nuclear power plant. MATEC Web of Conferences, 251, 02019."
+  },
+  {
+    "year": 2017,
+    "text": "Moon, J. H., Kim, J. S., Lee, T. H., & Han, T. S. Seismic Fragility Analysis of a LNG Tank with Friction Pendulum System of Various Friction Coefficient. Journal of the Computational Structural Engineering Institute of Korea, 30(2), 95-102."
+  },
+  {
+    "year": 2017,
+    "text": "Park, H., Nguyen, D. D., & Lee, T. H. Effect of high-frequency ground motions on the response of NPP components: A state-of-the-art review. Journal of the Korean Society of Hazard Mitigation, 17(6), 285-294."
+  },
+  {
+    "year": 2017,
+    "text": "Kim, J. H., Jeong, M. C., Lee, T. H., Lee, W. W., & Kong, J. S. Development of fatigue prediction model for steel bridges based on characteristics of variable stress spectra. International Journal of Damage Mechanics, 26(7), 951-967."
+  },
+  {
+    "year": 2016,
+    "text": "Moon, J., Lehman, D. E., Roeder, C. W., Lee, H. E., & Lee, T. H. Analytical evaluation of reinforced concrete pier and cast-in-steel-shell pile connection behavior considering steel-concrete interface. Advances in Materials Science and Engineering, 2016."
+  },
+  {
+    "year": 2016,
+    "text": "Park, H. S., Choi, B. H., Kim, J. J., & Lee, T. H. Seismic performance evaluation of high voltage transmission towers in South Korea. KSCE Journal of Civil Engineering, 20(6), 2499-2505."
+  },
+  {
+    "year": 2016,
+    "text": "Lee, T. H., Park, D., Nguyen, D. D., & Park, J. S. Damage analysis of cut-and-cover tunnel structures under seismic loading. Bulletin of Earthquake Engineering, 14(2), 413-431."
+  },
+  {
+    "year": 2016,
+    "text": "Lee, D. H., Kim, B. H., Jeong, S. H., Jeon, J. S., & Lee, T. H. Seismic fragility analysis of a buried gas pipeline based on nonlinear time-history analysis. International Journal of Steel Structures, 16(1), 231-242."
+  },
+  {
+    "year": 2016,
+    "text": "Park, D., Lee, T. H., Nguyen, D. D., & Park, J. Collapse mechanism of cut-and-cover tunnels under seismic loading. Japanese Geotechnical Society Special Publication, 2(25), 934-937."
+  },
+  {
+    "year": 2016,
+    "text": "Kim, J. H., Chau-Dinh, T., Zi, G., Lee, W. W., & Kong, J. S. Probabilistic fatigue integrity assessment in multiple crack growth analysis associated with equivalent initial flaw and material variability. Engineering Fracture Mechanics, 156, 182-196."
+  },
+  {
+    "year": 2016,
+    "text": "Park, D., Lee, T. H., Kim, H., & Park, J. S. Identification of damage states and damage indices of single box tunnel from inelastic seismic analysis. Journal of Korean Tunnelling and Underground Space Association, 18(2), 119-128."
+  },
+  {
+    "year": 2016,
+    "text": "Park, H. S., Nguyen, D. D., & Lee, T. H. Seismic Fragilities of Bridges and Transmission Towers Considering Recorded Ground Motions in South Korea. Journal of the Earthquake Engineering Society of Korea, 20(7_spc), 435-441."
+  },
+  {
+    "year": 2015,
+    "text": "Park, H. S., & Lee, T. H. Seismic performance evaluation of boil-off gas compressor in LNG terminal. The Open Civil Engineering Journal, 9(1)."
+  },
+  {
+    "year": 2014,
+    "text": "Seo, D. H., Lee, T. H., Kim, D. R., & Shin, J. H. Pre-nailing support for shallow soft-ground tunneling. Tunnelling and Underground Space Technology, 42, 216-226."
+  },
+  {
+    "year": 2014,
+    "text": "Kim, H., Shin, C., Lee, T., Lee, J., & Park, D. A study on the development of the seismic fragility functions of the high speed railway tunnels in use. Journal of the Korean Geoenvironmental Society, 15(11), 67-75."
+  },
+  {
+    "year": 2014,
+    "text": "Choi, B. H., Lee, T. H., & Park, Y. M. Torsional stiffness requirements for diaphragm bracing of discretely braced I-girders. International Journal of Steel Structures, 14(2), 355-368."
+  },
+  {
+    "year": 2014,
+    "text": "Moon, J., Kim, J. J., Lee, T. H., & Lee, H. E. Prediction of axial load capacity of stub circular concrete-filled steel tube using fuzzy logic. Journal of Constructional Steel Research, 101, 184-191."
+  },
+  {
+    "year": 2014,
+    "text": "Choi, B. H., Kim, J. J., & Lee, T. H. Bending stiffness requirement for closed-section longitudinal stiffeners of isotropic material plates under uniaxial compression. Journal of Bridge Engineering, 20(7), 04014092."
+  },
+  {
+    "year": 2014,
+    "text": "You, J. H., Jeon, J. H., Lee, T. H., & Kwon, Y. G. Transmission power controlled localization with topology building for NLOS environments. International Journal of Distributed Sensor Networks, 10(8), 250692."
+  },
+  {
+    "year": 2014,
+    "text": "Lee, T. H., Lee, E., Park, T., Hong, S. K., & Kim, J. Procedure of Seismic Performance Evaluation of LNG Receiving Terminal Facilities. Journal of the Korean Society of Safety, 29(4), 110-115."
+  },
+  {
+    "year": 2014,
+    "text": "Chung, S. Y., Han, T. S., Kim, S. Y., & Lee, T. H. Investigation of the permeability of porous concrete reconstructed using probabilistic description methods. Construction and Building Materials, 66, 760-770."
+  },
+  {
+    "year": 2013,
+    "text": "Lee, T. H., Kwon, S., & Park, H. S. Development of seismic fragility functions of LNG storage tanks by an analytical method. Journal of the Korean Society of Hazard Mitigation, 13(1), 89-96."
+  },
+  {
+    "year": 2012,
+    "text": "Park, J., Kang, Y. S., & Lee, T. H. Probabilistic Seismic Performance Evaluation of Open-Cut Tunnels for Subway Systems. Journal of Korean Society of Hazard Mitigation, 12(3), 41-48."
+  },
+  {
+    "year": 2011,
+    "text": "Kim, J., Park, J. H., & Lee, T. H. Sensitivity analysis of steel buildings subjected to column loss. Engineering Structures, 33(2), 421-432."
+  },
+  {
+    "year": 2010,
+    "text": "Park, B. H., Lim, N. H., Lee, T. H., Kim, K. D., & Kim, J. H. Some Thoughts on the Preliminary Seismic Performance Evaluation Procedure of Subway Infrastructures. Journal of the Korea Academia-Industrial cooperation Society, 11(2), 666-674."
+  },
+  {
+    "year": 2009,
+    "text": "Moon, J., Yoon, K. Y., Lee, T. H., & Lee, H. E. Out-of-plane buckling of arches with varying curvature. KSCE Journal of Civil Engineering, 13(6), 441-451."
+  },
+  {
+    "year": 2009,
+    "text": "Moon, J., Yoon, K. Y., Lee, T. H., & Lee, H. E. Lateral-Torsional Buckling Strength of Parabolic Arches. Journal of The Korean Society of Civil Engineers, 29(2A), 145-153."
+  },
+  {
+    "year": 2009,
+    "text": "Song, J. K., Jin, H. S., & Lee, T. H. Seismic fragility analysis for probabilistic performance evaluation of PSC box girder bridges. Journal of the Korean Society of Civil Engineers, 29(2A), 119-130."
+  },
+  {
+    "year": 2009,
+    "text": "Moon, J., Yoon, K. Y., Lee, T. H., & Lee, H. E. In-plane strength and design of parabolic arches. Engineering Structures, 31(2), 444-454."
+  },
+  {
+    "year": 2009,
+    "text": "Lee, T. H., & Mosalam, K. Identifying significant components of structures for seismic performance using FOSM method. Journal of the Earthquake Engineering Society of Korea, 13(4), 37-45."
+  },
+  {
+    "year": 2008,
+    "text": "Wang, T., Yoshitake, N., Pan, P., Lee, T. H., & Nakashima, M. Numerical characteristics of peer-to-peer (P2P) internet online hybrid test system and its application to seismic simulation of SRC structure. Earthquake Engineering & Structural Dynamics, 37(2), 265-282."
+  },
+  {
+    "year": 2008,
+    "text": "Park, J. H., Kim, J. K., & Lee, T. H. Sensitivity Analysis of Steel Frames Subjected to Progressive Collapse. Journal of the Computational Structural Engineering Institute of Korea, 21(3), 211-216."
+  },
+  {
+    "year": 2007,
+    "text": "Lee, T. H., Kato, M., Matsumiya, T., Suita, K., & Nakashima, M. Seismic performance evaluation of non-structural components: drywall partitions. Earthquake Engineering & Structural Dynamics, 36(3), 367-382."
+  },
+  {
+    "year": 2007,
+    "text": "Moon, J., Yoon, K. Y., Lee, T. H., & Lee, H. E. In-plane elastic buckling of pin-ended shallow parabolic arches. Engineering Structures, 29(10), 2611-2617."
+  },
+  {
+    "year": 2007,
+    "text": "Lee, Y. H., Sung, W. J., Lee, T. H., & Seong, K. W. Finite Element formulation of a composite double T-beam subjected to torsion. Engineering Structures, 29(11), 2935-2945."
+  },
+  {
+    "year": 2005,
+    "text": "Lee, T. H., & Mosalam, K. M. Seismic demand sensitivity of reinforced concrete shear-wall building using FOSM method. Earthquake Engineering & Structural Dynamics, 34(14), 1719-1736."
+  },
+  {
     "year": 2004,
-    "text": "Lee, T. H., & Mosalam, K. M. Probabilistic fiber element modeling of reinforced concrete structures. Computers & Structures, 82(27), 2285–2299."
+    "text": "Lee, T. H., & Mosalam, K. M. Probabilistic fiber element modeling of reinforced concrete structures. Computers & Structures, 82(27), 2285-2299."
   }
 ]
