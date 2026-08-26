@@ -32,43 +32,59 @@
       </div>
       <a href="courses.html" data-page="courses">COURSES</a>
       <a href="project.html" data-page="project">PROJECT</a>
-      <a href="publication.html" data-page="publication">PUBLICATION</a>
+      <a href="output.html" data-page="publication">Output</a>
       <a href="contact.html" data-page="contact">CONTACT US</a>
     </nav>
   </div>
 </header>
 
-
 <main>
-  <section class="subhero">
-    <div class="container">
-      <p class="eyebrow">RESEARCH OUTPUT</p>
-      <h1>Publication</h1>
-      <p class="subhero-intro">Explore journal and conference publications, as well as presentations by members of the Disaster Resistant Structures Lab.</p>
-    </div>
-  </section>
 
-  <section class="section">
-    <div class="container">
-      <div class="people-grid publication-category-grid">
-        <a class="people-card publication-category-card" href="publication-list.html">
-          <div class="publication-category-number">01</div>
-          <h2>List of Publications</h2>
-          <p>Journal papers, conference papers, and other scholarly publications.</p>
-          <span>View publications →</span>
-        </a>
+<section class="subhero">
+  <div class="container">
+    <p class="eyebrow">PUBLICATION</p>
+    <h1>Publication</h1>
+    <p class="subhero-intro">Peer-reviewed work, conference proceedings, and technical reports.</p>
+  </div>
+</section>
 
-        <a class="people-card publication-category-card" href="presentations.html">
-          <div class="publication-category-number">02</div>
-          <h2>Presentations</h2>
-          <p>Conference presentations, invited talks, seminars, and other research presentations.</p>
-          <span>View presentations →</span>
-        </a>
-      </div>
+<section class="publication-switcher">
+  <div class="container">
+    <a class="publication-tab active" href="publication.html">Publication</a>
+    <a class="publication-tab" href="presentations.html">Presentations</a>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container pub-toolbar">
+    <div>
+      <p class="section-label">PEER-REVIEWED JOURNAL</p>
+      <h2>Publications</h2>
+      <p><a class="detail-link" href="https://scholar.google.com/citations?hl=en&user=6xsemlQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener">Google Scholar profile ↗</a></p>
     </div>
-  </section>
+    <label class="search-box">
+      <span>Search</span>
+      <input id="publication-search" type="search" placeholder="Author, title, journal, year">
+    </label>
+  </div>
+  <div class="container content-narrow">
+    <div id="publication-list" class="publication-list" aria-live="polite"></div>
+    <noscript><p>Please enable JavaScript to load the publication data.</p></noscript>
+    <div class="data-note">
+      <h3>Adding the complete bibliography</h3>
+      <p>Edit <code>data/publications.json</code>. Add one object per publication using <code>{"year": 2024, "text": "Citation..."}</code>. The page automatically sorts and searches the entries.</p>
+    </div>
+  </div>
+</section>
+<section class="section soft">
+  <div class="container content-narrow">
+    <h2>Other outputs</h2>
+    <p>The original DRSL site also lists selected international conference proceedings and technical reports. This page is already designed to support those sections when you add your own bibliography data.</p>
+  </div>
+</section>
+
 </main>
-
 
 <footer class="site-footer">
   <div class="container footer-grid">
