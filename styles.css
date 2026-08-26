@@ -115,3 +115,15 @@ url("https://lh3.googleusercontent.com/sitesv/AG8ngQUItkJq7DK6kxcORRCLfXCkplIMk3
   .container,.header-inner{width:min(calc(100% - 28px),var(--max))}.section{padding:58px 0}.subhero{padding:60px 0 52px}.hero-inner{padding:70px 0}.hero h1 br{display:none}
   .timeline li,.project-list article,.publication-item{grid-template-columns:1fr;gap:5px}.visual-grid{gap:12px}.photo-panel{min-height:230px}.footer-grid{flex-direction:column}.footer-right{text-align:left}.person-nav-card{min-height:0}
 }
+
+
+.completed-project-list{border-top:1px solid var(--line)}
+.completed-project{display:grid;grid-template-columns:145px 1fr;gap:28px;padding:24px 0;border-bottom:1px solid var(--line)}
+.project-date{font-size:.82rem;font-weight:600;color:var(--blue);padding-top:2px}
+.project-copy h3{font:600 1rem "Noto Sans KR",sans-serif;line-height:1.55;margin:0 0 5px}
+.project-copy p{margin:0}
+.project-en{font-size:.95rem;color:#3f464d!important}
+.project-agency{font-size:.86rem;color:var(--muted)!important;margin-top:5px!important}
+.detail-link{display:inline-block;margin-top:8px;font-size:.82rem;font-weight:600;color:var(--blue);border-bottom:1px solid rgba(35,77,116,.35)}
+.detail-link:hover{border-bottom-color:var(--blue)}
+@media(max-width:540px){.completed-project{grid-template-columns:1fr;gap:6px}}
