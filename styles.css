@@ -139,3 +139,46 @@ url("https://lh3.googleusercontent.com/sitesv/AG8ngQUItkJq7DK6kxcORRCLfXCkplIMk3
   border:1px solid var(--line);
   background:var(--soft);
 }
+
+/* ===== Alumni profile photo sizing ===== */
+.alumni-profile-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 22px;
+  padding: 26px;
+  min-height: 180px;
+  overflow: hidden;
+}
+
+.alumni-profile-card .alumni-photo {
+  width: 90px !important;
+  height: 90px !important;
+  min-width: 90px;
+  max-width: 90px;
+  flex: 0 0 90px;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: var(--soft);
+}
+
+.alumni-profile-card > div {
+  flex: 1;
+  min-width: 0;
+}
+
+.alumni-profile-card h2 {
+  margin: 4px 0 10px;
+}
+
+@media (max-width: 760px) {
+  .alumni-profile-card .alumni-photo {
+    width: 78px !important;
+    height: 78px !important;
+    min-width: 78px;
+    max-width: 78px;
+    flex-basis: 78px;
+  }
+}
