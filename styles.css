@@ -218,3 +218,19 @@ url("https://lh3.googleusercontent.com/sitesv/AG8ngQUItkJq7DK6kxcORRCLfXCkplIMk3
 @media(max-width:540px){
   .site-logo{height:39px;max-width:180px}
 }
+
+
+/* ===== Publication categories and tabs ===== */
+.publication-category-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.publication-category-card{min-height:280px}
+.publication-category-number{font-size:.78rem;font-weight:700;letter-spacing:.12em;color:var(--blue);margin-bottom:34px}
+.publication-switcher{border-bottom:1px solid var(--line);background:#fff}
+.publication-switcher .container{display:flex;gap:30px}
+.publication-tab{display:inline-block;padding:17px 0 14px;font-size:.82rem;font-weight:700;letter-spacing:.04em;color:var(--muted);border-bottom:3px solid transparent}
+.publication-tab:hover,.publication-tab.active{color:var(--blue);border-bottom-color:var(--blue)}
+.presentation-toolbar{display:none}
+.presentation-empty{margin-top:8px}
+@media(max-width:700px){
+  .publication-category-grid{grid-template-columns:1fr}
+  .publication-switcher .container{gap:20px}
+}
